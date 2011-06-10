@@ -1,4 +1,4 @@
-# Vesta: Your emacs Distridution
+# Vesta: Your emacs Distribution
 
 This is a distribution of emacs plugins intended to be run on the latest
 Aquamacs release.
