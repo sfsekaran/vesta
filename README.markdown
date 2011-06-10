@@ -36,7 +36,7 @@ Create `~/.emacs.local` for any local customizations.
 
 If you want to add additional Emacs plugins you can do so by adding a `~/.vesta.rake` like so:
 
-    emacs_plugin_task "revbufs", "git://github.com/nex3/haml-mode.git"
+    emacs_plugin_task "haml-mode", "git://github.com/nex3/haml-mode.git"
 
 ## Updating to the latest version
 
